@@ -7,7 +7,6 @@ Front End Developer
 I 've been learning to code for 1 year.
 
 * 🌍  I'm based in Tamil Nadu
-* 🖥️  See my portfolio at [https://github.com/sundararajan-git](http://postapp-bd0f4.web.app/register)
 * ✉️  You can contact me at [sundararajanselvarasu@gmail.com](mailto:sundararajanselvarasu@gmail.com)
 * 🧠  I'm learning Node JS
 

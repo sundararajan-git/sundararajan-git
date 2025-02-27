@@ -8,7 +8,7 @@ I 've been working to code for 1 year.
 
 * 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [sundararajanselvarasu@gmail.com](mailto:sundararajanselvarasu@gmail.com)
-* 🧠  I'm learning I'm learning Node JS
+* 🧠  I'm learning Node JS
 
 ### Skills
 

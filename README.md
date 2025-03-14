@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I 've been working to code for 1 year.
+I 've been working to code for above 1 year.
 
 * 🌍  I'm based in Tamil Nadu
 * ✉️  You can contact me at [sundararajanselvarasu@gmail.com](mailto:sundararajanselvarasu@gmail.com)
-* 🧠  I'm learning Node JS
+* 🧠  I'm learning Python
 
 
 # 💻 Tech Stack:

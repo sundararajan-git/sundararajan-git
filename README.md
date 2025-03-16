@@ -42,9 +42,9 @@ I've been coding for over a year, specializing in the **MERN stack**.
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundararajan-git&show_icons=true&theme=transparent&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundararajan-git&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundararajan-git&langs_count=8&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundararajan-git&show_icons=true&theme=transparent&hide_border=true&text_color=%23ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundararajan-git&theme=transparent&hide_border=true&text_color=%23ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundararajan-git&langs_count=8&theme=transparent&hide_border=true&text_color=%23ffffff)
 
 ## 🚀 Top Repositories
 [![Product Store](https://github-readme-stats.vercel.app/api/pin/?username=sundararajan-git&repo=product_store&theme=transparent&hide_border=true)](https://github.com/sundararajan-git/product_store)

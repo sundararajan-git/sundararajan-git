@@ -7,14 +7,10 @@ I've been coding for over a year, specializing in the **MERN stack**.
 - ✉️ Reach me at [sundararajanselvarasu@gmail.com](mailto:sundararajanselvarasu@gmail.com)
 - 🧠 Currently learning **Python**
 
----
-
 ## 🌐 Connect with Me:
 [![CodePen](https://img.shields.io/badge/CodePen-%23161616.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sundararajan-git)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sundararajanselvarasu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230081CB.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sundararajan-git)
-
----
 
 ## 💻 Tech Stack (Basic to Advanced):
 ### 🏗️ Basics:
@@ -45,18 +41,12 @@ I've been coding for over a year, specializing in the **MERN stack**.
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundararajan-git&show_icons=true&theme=transparent&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundararajan-git&theme=transparent&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundararajan-git&langs_count=8&theme=transparent&hide_border=true)
 
----
-
 ## 🚀 Top Repositories
 [![Product Store](https://github-readme-stats.vercel.app/api/pin/?username=sundararajan-git&repo=product_store&theme=transparent&hide_border=true)](https://github.com/sundararajan-git/product_store)
-
----
 
 🔥 **Always learning & building cool things!**

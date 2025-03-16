@@ -1,4 +1,4 @@
-## Hi, I'm Sundararajan S! 👋
+## Hi, I'm Sundararajan S 👋
 
 ### MERN Stack Developer
 I've been coding for over a year, specializing in the **MERN stack**.
@@ -12,7 +12,7 @@ I've been coding for over a year, specializing in the **MERN stack**.
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sundararajanselvarasu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230081CB.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sundararajan-git)
 
-## 💻 Tech Stack (Basic to Advanced):
+## 💻 Tech Stack:
 ### 🏗️ Basics:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

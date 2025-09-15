@@ -1,7 +1,7 @@
 ## Hi, I'm Sundararajan S 👋
 
 ### MERN Stack Developer
-I've been coding for over 2 year, specializing in the **MERN stack**.
+I've been coding for over 2 years, specializing in the **MERN stack**.
 
 - 🌍 Based in **Tamil Nadu, India**
 - ✉️ Reach me at [sundararajanselvarasu@gmail.com](mailto:sundararajanselvarasu@gmail.com)

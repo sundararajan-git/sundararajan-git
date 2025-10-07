@@ -47,11 +47,13 @@ I have 2 years of experience building web applications using the MERN stack, wit
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sundararajan-git&show_icons=true&theme=transparent&hide_border=true&text_color=white)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundararajan-git&theme=transparent&hide_border=true&text_color=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sundararajan-git&langs_count=8&theme=transparent&hide_border=true&text_color=white)
+<table>
+    <tr>
+      <img src="https://github-readme-stats.vercel.app/api?username=sundararajan-git&show_icons=true&theme=tokyonight&hide_border=true" />
+    </tr>
+    <tr>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundararajan-git&langs_count=6&theme=tokyonight&hide_border=true" />
+    </tr>
+</table>
 
-## Top Repositories
-[![Product Store](https://github-readme-stats.vercel.app/api/pin/?username=sundararajan-git&repo=product_store&theme=transparent&hide_border=true&text_color=white)](https://github.com/sundararajan-git/product_store)
 
-🔥 **Always learning & building cool things!**
